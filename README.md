@@ -6,6 +6,7 @@ CONTENTS OF THIS FILE
 * Installation
 * Troubleshooting
 * Maintainers
+* Credits
 
 INTRODUCTION
 ------------
@@ -40,3 +41,12 @@ MAINTAINERS
 
 Current maintainer:
 * Jaxson N. Robinson (Dynamite) - https://github.com/Dyynamite
+
+CREDITS
+-------
+
+Enemy assets:
+Re-Logic (Terraria) - https://www.youtube.com/c/NoahGiesler
+
+Music:
+Noah Giesler - https://www.youtube.com/c/NoahGiesler
